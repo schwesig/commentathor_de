@@ -1,0 +1,47 @@
+baseURL = 'https://example.org/'
+languageCode = 'de'
+title = 'Commentathor Blog'
+theme = 'binario'
+
+[pagination]
+  pagerSize = 10
+
+enableRobotsTXT = true
+
+[params]
+  description = "Comment-a-Thor - a blog by @schwesig"
+  columns = 2
+  mainSections = ["posts"]
+  dateFormat = "02.01.2006"
+
+[params.logo]
+  subtitle = "Comment-a-Thor - a blog by @schwesig"
+
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    name = "Beiträge"
+    url = "/posts/"
+    title = ""
+  [[menu.main]]
+    weight = 2
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "categories"
+    name = "Kategorien"
+    url = "/categories/"
+    title = ""
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    lineNos = true
+    lineNumbersInTable = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
