@@ -33,9 +33,32 @@ hugo server -D
 hugo new posts/post-name.md
 ```
 
-Edit the generated file in `content/posts/` and set `draft = false` when ready to publish.
+Edit the generated file in `content/posts/`.
 
-## Building for Production
+### Workflow for Publishing:
+
+1. Create new post with `draft = true` in frontmatter
+2. Commit and push to `main` branch
+3. Edit and preview locally with `hugo server -D`
+4. When ready to publish: Set `draft = false`
+5. Commit and push → **Automatic deployment to FTP via GitHub Actions**
+
+The workflow only deploys when content changes (not drafts) are pushed to `main`.
+
+## Deployment
+
+The blog automatically deploys to FTP when changes are pushed to the `main` branch.
+
+### Required GitHub Secrets:
+
+Set these in your GitHub repository settings (Settings → Secrets and variables → Actions):
+
+- `FTP_SERVER` - FTP server hostname
+- `FTP_USERNAME` - FTP username
+- `FTP_PASSWORD` - FTP password
+- `FTP_DIR` - Remote directory path (e.g., `/public_html/` or `/htdocs/`)
+
+### Manual Build
 
 ```bash
 hugo --minify
