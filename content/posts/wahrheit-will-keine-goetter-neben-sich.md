@@ -1,6 +1,6 @@
 +++
 date = '2025-10-09T00:05:23-04:00'
-draft = true
+draft = false
 title = 'Wahrheit will keine Götter neben sich'
 tags = ['Zitate', 'Wahrheit']
 categories = ['Quotes']
