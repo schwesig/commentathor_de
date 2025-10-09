@@ -6,6 +6,8 @@ This is the repository for my personal blog "Comment-a-Thor" by @schwesig.
 
 A personal blog featuring quotes, thoughts, and musings in German and English.
 
+**Important Notice:** This website (commentathor.de) is completely independent and has no affiliation whatsoever with commentathor.com. There is no connection in terms of content, politics, or personnel between this blog and any other website using a similar name.
+
 ## Technical Details
 
 - **Static Site Generator**: [Hugo](https://gohugo.io/)

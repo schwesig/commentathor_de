@@ -36,6 +36,12 @@ enableRobotsTXT = true
     name = "Kategorien"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    title = ""
 
 [markup]
   [markup.highlight]
