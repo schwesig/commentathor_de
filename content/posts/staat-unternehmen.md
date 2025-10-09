@@ -10,4 +10,4 @@ categories = ['Quotes']
 
 "A state should be run even less like a business than a business should."
 
-— **Thorsten Schwesig**
+— **Thorsten Schwesig, 2025**

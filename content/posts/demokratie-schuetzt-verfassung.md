@@ -10,4 +10,4 @@ categories = ['Quotes']
 
 "It is not the constitution that protects democracy – but democracy that protects the constitution."
 
-— **Thorsten Schwesig**
+— **Thorsten Schwesig, 2025**
