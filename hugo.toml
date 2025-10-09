@@ -2,7 +2,8 @@ baseURL = 'https://commentathor.de/'
 languageCode = 'de'
 defaultContentLanguage = 'de'
 title = 'Commentathor'
-theme = 'terminal'
+theme = 'cactus'
+copyright = 'Thorsten Schwesig'
 
 enableRobotsTXT = true
 
@@ -19,38 +20,41 @@ enableRobotsTXT = true
       unsafe = true
 
 [params]
-  contentTypeName = "posts"
-  showMenuItems = 4
-  fullWidthTheme = false
-  centerTheme = false
+  colortheme = "white"
+  rss = true
+  description = "Comment-a-Thor - a blog by @schwesig"
+  mainSection = "posts"
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 10
+  tagsOverview = true
+  dateFormat = "02.01.2006"
+  showReadTime = true
 
-[languages]
-  [languages.de]
-    title = "Commentathor"
-    subtitle = "Comment-a-Thor - a blog by @schwesig"
-    keywords = "blog, zitate, quotes"
-    copyright = "Thorsten Schwesig"
-    menuMore = "Mehr zeigen"
-    readMore = "Weiterlesen"
-    readOtherPosts = "Andere Beiträge"
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/schwesig"
 
-    [languages.de.params.logo]
-      logoText = "Commentathor"
-      logoHomeLink = "/"
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
-    [[languages.de.menu.main]]
-      identifier = "posts"
-      name = "Beiträge"
-      url = "/posts"
-    [[languages.de.menu.main]]
-      identifier = "tags"
-      name = "Tags"
-      url = "/tags"
-    [[languages.de.menu.main]]
-      identifier = "categories"
-      name = "Kategorien"
-      url = "/categories"
-    [[languages.de.menu.main]]
-      identifier = "about"
-      name = "About"
-      url = "/about"
+[[menu.main]]
+  name = "Beiträge"
+  url = "/posts"
+  weight = 2
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 3
+
+[[menu.main]]
+  name = "Kategorien"
+  url = "/categories"
+  weight = 4
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 5
