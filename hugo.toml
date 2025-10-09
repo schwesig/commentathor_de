@@ -1,22 +1,36 @@
 baseURL = 'https://commentathor.de/'
 languageCode = 'de'
+defaultContentLanguage = 'de'
 title = 'Commentathor'
-theme = 'binario'
-
-[pagination]
-  pagerSize = 10
+theme = 'hermit'
 
 enableRobotsTXT = true
+enableEmoji = true
+
+[author]
+  name = "Thorsten Schwesig"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [params]
-  description = "Comment-a-Thor - a blog by @schwesig"
-  columns = 2
-  mainSections = ["posts"]
-  dateFormat = "02.01.2006"
+  dateform = "02.01.2006"
+  dateformShort = "02.01"
+  dateformNum = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
 
-[params.logo]
-  image = "logo.png"
-  subtitle = "Comment-a-Thor - a blog by @schwesig"
+  homeSubtitle = "Comment-a-Thor - a blog by @schwesig"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  images = ["/logo.png"]
+
+  relatedPosts = false
+  code_copy_button = true
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/schwesig"
 
 [menu]
   [[menu.main]]
