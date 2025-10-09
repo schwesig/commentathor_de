@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://commentathor.de/'
 languageCode = 'de'
-title = 'Commentathor Blog'
+title = 'Commentathor'
 theme = 'binario'
 
 [pagination]
