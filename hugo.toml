@@ -15,6 +15,7 @@ enableRobotsTXT = true
   dateFormat = "02.01.2006"
 
 [params.logo]
+  image = "logo.png"
   subtitle = "Comment-a-Thor - a blog by @schwesig"
 
 [menu]
