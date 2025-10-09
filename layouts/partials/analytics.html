@@ -1,0 +1,5 @@
+{{- if not .Site.IsServer }}
+{{- with .Site.Config.Services.GoogleAnalytics.ID }}
+{{ template "_internal/google_analytics.html" $ }}
+{{- end }}
+{{- end }}
