@@ -1,6 +1,6 @@
 +++
 date = '2025-10-09T00:16:12-04:00'
-draft = true
+draft = false
 title = 'test'
 tags = ['Test']
 categories = ['Quotes']
