@@ -2,61 +2,12 @@ baseURL = 'https://commentathor.de/'
 languageCode = 'de'
 defaultContentLanguage = 'de'
 title = 'Commentathor'
-theme = 'hermit'
+theme = 'terminal'
 
 enableRobotsTXT = true
-enableEmoji = true
 
-[author]
-  name = "Thorsten Schwesig"
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-
-[params]
-  dateform = "02.01.2006"
-  dateformShort = "02.01"
-  dateformNum = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-
-  homeSubtitle = "Comment-a-Thor - a blog by @schwesig"
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  images = ["/logo.png"]
-
-  relatedPosts = false
-  code_copy_button = true
-
-[[params.social]]
-  name = "github"
-  url = "https://github.com/schwesig"
-
-[menu]
-  [[menu.main]]
-    weight = 1
-    identifier = "posts"
-    name = "Beiträge"
-    url = "/posts/"
-    title = ""
-  [[menu.main]]
-    weight = 2
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-  [[menu.main]]
-    weight = 3
-    identifier = "categories"
-    name = "Kategorien"
-    url = "/categories/"
-    title = ""
-  [[menu.main]]
-    weight = 4
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    title = ""
+[pagination]
+  pagerSize = 10
 
 [markup]
   [markup.highlight]
@@ -66,3 +17,40 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 4
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages]
+  [languages.de]
+    title = "Commentathor"
+    subtitle = "Comment-a-Thor - a blog by @schwesig"
+    keywords = "blog, zitate, quotes"
+    copyright = "Thorsten Schwesig"
+    menuMore = "Mehr zeigen"
+    readMore = "Weiterlesen"
+    readOtherPosts = "Andere Beiträge"
+
+    [languages.de.params.logo]
+      logoText = "Commentathor"
+      logoHomeLink = "/"
+
+    [[languages.de.menu.main]]
+      identifier = "posts"
+      name = "Beiträge"
+      url = "/posts"
+    [[languages.de.menu.main]]
+      identifier = "tags"
+      name = "Tags"
+      url = "/tags"
+    [[languages.de.menu.main]]
+      identifier = "categories"
+      name = "Kategorien"
+      url = "/categories"
+    [[languages.de.menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about"
