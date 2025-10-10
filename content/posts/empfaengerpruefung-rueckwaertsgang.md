@@ -12,6 +12,8 @@ categories = ['Gesellschaft', 'Technik']
 
 ## Empfängerprüfung – Der große Rückwärtsgang der Digitalisierung
 
+![Salto Mortale Rückwärts](/images/saltoMortaleRueckwaerts.png)
+
 Na, endlich!
 Die Banken in Deutschland **führen wieder die Empfängerprüfung ein**.
 Also das, was sie **früher schon mal gemacht haben**, bevor sie beschlossen haben, es **nicht mehr zu machen**, um jetzt zu verkünden, dass sie es **wieder machen werden**.
