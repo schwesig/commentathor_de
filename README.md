@@ -11,7 +11,7 @@ A personal blog featuring quotes, thoughts, and musings in German and English.
 ## Technical Details
 
 - **Static Site Generator**: [Hugo](https://gohugo.io/)
-- **Theme**: [Binario](https://github.com/Vimux/Binario)
+- **Theme**: [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus)
 - **Language**: German (de)
 
 ## Local Development
@@ -31,13 +31,31 @@ hugo server -D
 
 ## Creating New Posts
 
-```bash
-hugo new posts/post-name.md
-```
+### Via Pull Request (Recommended)
 
-Edit the generated file in `content/posts/`.
+1. **Create an Issue** using the "Neuer Blog Post" template
+2. **Create a new branch**: `git checkout -b post/post-title`
+3. **Create the post**:
+   ```bash
+   hugo new posts/post-name.md
+   ```
+4. **Edit the file** in `content/posts/` with your content:
+   - Add German quote
+   - Add English translation
+   - Set author and year
+   - Add appropriate tags and categories
+   - Set `draft = false` when ready
+5. **Test locally**: `hugo server -D`
+6. **Commit and push**:
+   ```bash
+   git add content/posts/post-name.md
+   git commit -m "Add new post: Post Title"
+   git push origin post/post-title
+   ```
+7. **Create Pull Request** on GitHub
+8. **Merge PR** → Automatic deployment to FTP!
 
-### Workflow for Publishing:
+### Direct to Main (Quick Method)
 
 1. Create new post with `draft = true` in frontmatter
 2. Commit and push to `main` branch
@@ -45,7 +63,7 @@ Edit the generated file in `content/posts/`.
 4. When ready to publish: Set `draft = false`
 5. Commit and push → **Automatic deployment to FTP via GitHub Actions**
 
-The workflow only deploys when content changes (not drafts) are pushed to `main`.
+The workflow only deploys when content changes are pushed to `main`.
 
 ## Deployment
 
@@ -72,4 +90,4 @@ The generated site will be in the `public/` directory.
 
 Content: © 2025 @schwesig. All rights reserved.
 
-Theme: [Binario](https://github.com/Vimux/Binario) - MIT License
+Theme: [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - MIT License
