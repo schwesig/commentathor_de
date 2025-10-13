@@ -9,98 +9,72 @@ categories = ['Gesellschaft', 'Technik']
 ![Salto Mortale Rückwärts](/images/saltoMortaleRueckwaerts.png)
 
 ## Salto mortale rückwärts
-### (oder: Wie Banken das Prüfen wiederentdecken)
+### oder: Wie Banken das Prüfen wiederentdecken
 
-Howdy zusammen,
+Also mal ehrlich:
+Wenn man sich anschaut, was die Banken gerade machen, dann fragt man sich schon, ob da jemand einfach die alten Akten von 1998 aus dem Keller geholt hat.
+„Empfängerprüfung" heißt das jetzt wieder. Klingt modern, ist aber ungefähr so neu wie das Faxgerät in einer deutschen Arztpraxis.
 
-so, da bin ich also mal wieder.
-Ich weiß, ist lange her. Aber manchmal gibt es einfach Themen, die schreien so laut nach einem Kommentar, dass man gar nicht anders kann, als kurz den Kopf aus dem Alltag zu heben.
+Früher, also damals, als man noch Überweisungsträger mit Kugelschreiber ausfüllte, wusste die Bank noch, wer Müller und wer Meier ist.
+Da hat der Mensch hinter'm Schalter noch geguckt, ob die Kontonummer auch wirklich zu dem passt, der da draufsteht.
+Heute: „IBAN stimmt? Na dann viel Spaß in Litauen."
 
-Heute geht's um Banken.
-Oder genauer gesagt: um den Moment, in dem jemand in einer EU-Kommission aufgestanden ist und gesagt hat:
-„Hey, lasst uns etwas einführen, was wir schon mal hatten, dann aber abgeschafft haben, weil's zu kompliziert war!"
-Und alle so: „Großartig, nennen wir es Digitalisierung!"
-
----
-
-## Früher war alles einfacher (oder wenigstens ehrlicher)
-
-Früher – also damals, als man noch mit Kugelschreiber und Überweisungsträger in der Hand vor diesem kleinen Schlitz stand –
-da wusste die Bank noch, wer Müller und wer Meier ist.
-Da hat noch jemand geschaut, ob die Kontonummer auch wirklich zum Namen passt.
-
-Heute klickst du dich durch fünf Warnfenster und bekommst am Ende die Info:
-
-> „Achtung: Empfängername stimmt möglicherweise nicht exakt überein."
-
-Ja danke, ich hab's selbst geschrieben.
-Vielleicht war's der Tippfehler, vielleicht die EU-Schreibweise von „ö".
-Oder vielleicht, weil die Datenbank sich gerade von der Mittagspause erholt.
+Und jetzt, 2025, machen wir wieder einen Salto rückwärts.
+Nur diesmal mit Anlauf, Sicherheitsweste und EU-Zertifikat.
 
 ---
 
-## Digitalisierung, aber mit Rückspiegel
+## Digitalisierung, made in EU
 
-Jetzt also neu: die Empfängerprüfung.
-Offiziell heißt das natürlich nicht so, sondern **„Verification of Payee"** ([VoP](https://www.bafin.de/DE/Verbraucher/Bank/Ueberweisungen_Lastschriften/Empfaengerueberpruefung_bei_Ueberweisungen/Empfaengerueberpruefung_bei_Ueberweisungen_node.html)).
-Klingt teurer, ist es vermutlich auch.
-Der Witz: Das Ganze ist gar nicht neu. Nur diesmal macht's kein Mensch mehr, sondern ein Algorithmus mit leichter Namensunsicherheit.
+Natürlich heißt das Ganze nicht einfach „Empfängerprüfung".
+Das wäre ja zu einfach.
+Nein, es heißt **„Verification of Payee"** ([VoP](https://www.bafin.de/DE/Verbraucher/Bank/Ueberweisungen_Lastschriften/Empfaengerueberpruefung_bei_Ueberweisungen/Empfaengerueberpruefung_bei_Ueberweisungen_node.html)).
+Klingt gleich dreimal teurer, oder?
 
-Du gibst also Name und IBAN ein,
-und irgendwo prüft ein System, ob das zusammenpasst.
-Wenn ja → grün.
-Wenn nicht → rot.
-Und wenn der Computer sich nicht sicher ist → gelb.
-
-Das ist quasi die Verkehrsampel des Online-Bankings.
-Ich schwöre, in zwei Jahren blinkt dann noch ein kleines Männchen dazu, das ruft:
-„Bitte warten Sie, der Fortschritt wird berechnet."
+Und bevor jemand fragt:
+Nein, das ist kein neuer Song von David Hasselhoff, sondern ein ernst gemeintes Sicherheitsfeature.
+Die Bank prüft jetzt wieder, ob der Name zum Konto passt.
+Aber nicht, weil sie's will – sondern weil Brüssel gesagt hat, sie muss.
+Und wenn Brüssel etwas sagt, dann dauert's halt 10 Jahre, bis es hier ankommt.
+Wie Glasfaser.
 
 **Rechtliche Grundlage:** [EU-Verordnung 2024/886](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R0886) über Sofortüberweisungen (Instant Payments Regulation), verabschiedet im April 2024.
 
 ---
 
-## Fortschritt mit Anlauf – rückwärts
+## Der neue alte Fortschritt
 
-Das alles soll übrigens die Sicherheit erhöhen.
-Ist ja auch wichtig.
-Wobei man sich fragt: vor wem eigentlich?
-Vor Betrügern? Vor sich selbst? Oder vor der eigenen Tippfaulheit?
+Das funktioniert jetzt also so:
+Du gibst im Online-Banking den Namen und die IBAN ein.
+Dann prüft ein Computer irgendwo, ob das zusammenpasst.
+Wenn ja, bekommst du ein grünes Licht.
+Wenn's nicht passt, ein rotes.
+Und wenn der Computer sich nicht sicher ist: gelb.
 
-Ich stell mir das bildlich vor:
-Ein Bankbeamter in grauem Anzug macht einen Salto rückwärts,
-weil der Computer sagt:
+Ich schwöre, irgendwann stehen wir an der Supermarktkasse, und die Kassiererin fragt:
 
-> „Name und IBAN stimmen nicht exakt überein. Wiederholen Sie die Eingabe."
+> „Sind Sie der Empfänger?"
+> „Ja."
+> „Dann bitte einmal kurz in die Kamera nicken."
 
-Und irgendwo in Brüssel nickt jemand zufrieden:
-
-> „Siehst du, klappt doch!"
+Und das nennt sich dann Fortschritt.
 
 **Wie es funktioniert:** Das VoP-System nutzt ein „Ampel-System" mit den Ergebnissen „Match", „Close Match", „No Match" oder „Other". Bei „No Match" liegt die Haftung beim Zahler, bei „Match" bei der Bank. ([Quelle: BaFin](https://www.bafin.de/DE/Verbraucher/Bank/Ueberweisungen_Lastschriften/Empfaengerueberpruefung_bei_Ueberweisungen/Empfaengerueberpruefung_bei_Ueberweisungen_node.html))
 
 ---
 
-## Der Kreis schließt sich (leider)
+## Früher war alles … naja, wenigstens überschaubarer
 
-Wir haben also:
+Früher hat man einen Überweisungsträger ausgefüllt, unterschrieben und in diesen kleinen Schlitz im Bankschalter geworfen.
+Heute klickt man sich durch fünf Warnfenster und bekommt am Ende trotzdem den Hinweis:
 
-- Digitalisierung
-- Automatisierung
-- künstliche Intelligenz
+> „Achtung: Empfängername stimmt möglicherweise nicht exakt überein."
 
-und am Ende wieder das Gleiche wie früher, nur mit mehr Klicks und weniger Kaffee.
+Ja, danke. Vielleicht, weil ich „Jens" mit „y" geschrieben habe?
+Oder weil der Empfänger seine Konten bei drei verschiedenen Banken hat, und die EU sich gerade noch überlegt, ob der Name „Thorsten" mit „TH" oder „T" beginnt?
 
-Früher hat Frau Meier hinter'm Schalter kurz den Kopf gehoben und gesagt:
-
-> „Herr Schwesig, das Konto gehört aber zu einer Frau."
-
-Heute sagt der Computer:
-
-> „Unsicheres Matching. Möchten Sie trotzdem fortfahren?"
-
-Und du klickst natürlich auf Ja,
-weil du einfach nur diese blöde Miete überweisen willst.
+Ich seh's schon kommen:
+2026 gibt's dann die „Empfängerprüfung 2.0" – mit Gesichtserkennung und Atemtest.
 
 **Zeitplan:** Banken in der Eurozone müssen VoP bis 9. Oktober 2025 implementieren. Banken außerhalb der Eurozone haben Zeit bis 9. Juli 2027. ([Quelle: PwC Legal](https://legal.pwc.de/en/news/articles/verification-of-payee-requirements-vop-under-the-eus-instant-payments-regulation-ipr))
 
@@ -108,19 +82,19 @@ weil du einfach nur diese blöde Miete überweisen willst.
 
 ## Fazit
 
-Wir wollten schneller werden.
-Wir wollten moderner werden.
-Und jetzt sind wir digitalisiert – aber auf Umwegen.
+Wir haben's geschafft:
+Nach 10 Jahren Digitalisierung, Automatisierung und künstlicher Intelligenz sind wir wieder da, wo wir angefangen haben.
+Nur dass jetzt ein Algorithmus das macht, was früher Frau Meier hinter'm Schalter konnte –
+mit einem Blick und einem Kaffee in der Hand.
 
-Oder, wie man es wohl nennen muss:
-Ein Salto mortale rückwärts in die Zukunft.
-Mit Zertifikat. Und Cookie-Hinweis.
+Aber hey – immerhin heißt es jetzt „Instant Payment".
+Man bekommt also die Fehlermeldung sofort.
 
-**PS:** Falls jetzt jemand fragt, ob ich das ernst meine – nein.
-Aber wenn ich mir ansehe, wie die EU Fortschritt definiert, dann bin ich mir auch nicht mehr sicher, ob die's tun.
 In diesem Sinne:
-Grünes Licht, Freunde. Oder Gelb.
-Je nach Systemstatus.
+Grünes Licht für den Fortschritt!
+Oder gelb.
+Oder rot.
+Je nachdem, wie der Computer drauf ist.
 
 ---
 
