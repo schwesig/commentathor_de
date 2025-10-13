@@ -1,121 +1,106 @@
 +++
-date = '2025-10-10T00:00:00+02:00'
+date = '2025-10-13T00:00:00+02:00'
 draft = false
-title = 'Empfängerprüfung – Der große Rückwärtsgang der Digitalisierung'
-tags = ['Satire', 'Banken', 'Bürokratie', 'EU', 'Digitalisierung', 'Zahlungsverkehr']
+title = 'Salto mortale rückwärts'
+tags = ['Banken', 'Digitalisierung', 'EU', 'Verification of Payee', 'Kommentar']
 categories = ['Gesellschaft', 'Technik']
 +++
 
-> „Wir haben das Rad abgeschafft, um die Beine zu stärken – und jetzt erfinden wir das Rad neu, aber mit App-Anbindung."
-
----
-
-## Empfängerprüfung – Der große Rückwärtsgang der Digitalisierung
-
 ![Salto Mortale Rückwärts](/images/saltoMortaleRueckwaerts.png)
 
-Na, endlich!
-Die Banken in Deutschland **führen wieder die Empfängerprüfung ein**.
-Also das, was sie **früher schon mal gemacht haben**, bevor sie beschlossen haben, es **nicht mehr zu machen**, um jetzt zu verkünden, dass sie es **wieder machen werden**.
-Ein bisschen wie: „Wir haben das Rad abgeschafft, um die Beine zu stärken – und jetzt erfinden wir das Rad neu, aber mit App-Anbindung."
+## Salto mortale rückwärts
+### (oder: Wie Banken das Prüfen wiederentdecken)
+
+Howdy zusammen,
+
+so, da bin ich also mal wieder.
+Ich weiß, ist lange her. Aber manchmal gibt es einfach Themen, die schreien so laut nach einem Kommentar, dass man gar nicht anders kann, als kurz den Kopf aus dem Alltag zu heben.
+
+Heute geht's um Banken.
+Oder genauer gesagt: um den Moment, in dem jemand in einer EU-Kommission aufgestanden ist und gesagt hat:
+„Hey, lasst uns etwas einführen, was wir schon mal hatten, dann aber abgeschafft haben, weil's zu kompliziert war!"
+Und alle so: „Großartig, nennen wir es Digitalisierung!"
 
 ---
 
-## Früher war mehr Verantwortung. Für die Bank.
+## Früher war alles einfacher (oder wenigstens ehrlicher)
 
-Früher, da hieß es noch:
-> „Sehr geehrter Kunde, Sie haben 500 DM an Herrn Schmidt geschickt, aber die Kontonummer gehört zu Frau Müller. Sind Sie sicher?"
+Früher – also damals, als man noch mit Kugelschreiber und Überweisungsträger in der Hand vor diesem kleinen Schlitz stand –
+da wusste die Bank noch, wer Müller und wer Meier ist.
+Da hat noch jemand geschaut, ob die Kontonummer auch wirklich zum Namen passt.
 
-Heute heißt es:
-> „Sie haben 5.000 € an Betrüger XY in Litauen geschickt. Viel Erfolg beim Wiederfinden!"
+Heute klickst du dich durch fünf Warnfenster und bekommst am Ende die Info:
 
-Früher prüfte die Bank noch, ob Name und Konto zusammenpassen.
-Heute heißt es: „Wir sind nur das Geldinstitut, nicht die Polizei!"
-Und ab Oktober 2025: „Wir sind wieder die Polizei, aber nur digital und mit drei Sekunden Verzögerung."
+> „Achtung: Empfängername stimmt möglicherweise nicht exakt überein."
+
+Ja danke, ich hab's selbst geschrieben.
+Vielleicht war's der Tippfehler, vielleicht die EU-Schreibweise von „ö".
+Oder vielleicht, weil die Datenbank sich gerade von der Mittagspause erholt.
 
 ---
 
-## Fortschritt à la EU
+## Digitalisierung, aber mit Rückspiegel
 
-Das Ganze nennt sich natürlich nicht einfach „Empfängerprüfung".
-Nein, nein.
-Das wäre ja verständlich.
-Stattdessen heißt es **„Verification of Payee"** ([VoP](https://www.bafin.de/DE/Verbraucher/Bank/Ueberweisungen_Lastschriften/Empfaengerueberpruefung_bei_Ueberweisungen/Empfaengerueberpruefung_bei_Ueberweisungen_node.html)).
-Weil – klar – wenn schon keiner weiß, was es bedeutet, dann kann's auch keiner hinterfragen.
+Jetzt also neu: die Empfängerprüfung.
+Offiziell heißt das natürlich nicht so, sondern **„Verification of Payee"** ([VoP](https://www.bafin.de/DE/Verbraucher/Bank/Ueberweisungen_Lastschriften/Empfaengerueberpruefung_bei_Ueberweisungen/Empfaengerueberpruefung_bei_Ueberweisungen_node.html)).
+Klingt teurer, ist es vermutlich auch.
+Der Witz: Das Ganze ist gar nicht neu. Nur diesmal macht's kein Mensch mehr, sondern ein Algorithmus mit leichter Namensunsicherheit.
 
-Die EU sagt:
-> „Das erhöht die Sicherheit!"
+Du gibst also Name und IBAN ein,
+und irgendwo prüft ein System, ob das zusammenpasst.
+Wenn ja → grün.
+Wenn nicht → rot.
+Und wenn der Computer sich nicht sicher ist → gelb.
 
-Ja, super.
-So wie 2FA beim Online-Banking, wo man auf dem Handy bestätigt, dass man wirklich man selbst ist – **nachdem man sich auf demselben Handy eingeloggt hat**.
-Sicherheit durch Zirkelbeweis.
+Das ist quasi die Verkehrsampel des Online-Bankings.
+Ich schwöre, in zwei Jahren blinkt dann noch ein kleines Männchen dazu, das ruft:
+„Bitte warten Sie, der Fortschritt wird berechnet."
 
 **Rechtliche Grundlage:** [EU-Verordnung 2024/886](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R0886) über Sofortüberweisungen (Instant Payments Regulation), verabschiedet im April 2024.
 
 ---
 
-## Der Dialog der Zukunft
+## Fortschritt mit Anlauf – rückwärts
 
-Du willst 20 € an deinen Kumpel überweisen.
-Online-Banking, schnell, zack.
-Dann kommt plötzlich ein Fenster:
+Das alles soll übrigens die Sicherheit erhöhen.
+Ist ja auch wichtig.
+Wobei man sich fragt: vor wem eigentlich?
+Vor Betrügern? Vor sich selbst? Oder vor der eigenen Tippfaulheit?
 
-> Achtung! Der Empfängername „Basti" passt nicht zur IBAN von „Sebastian Pufpaff".
-> Möchten Sie fortfahren?
+Ich stell mir das bildlich vor:
+Ein Bankbeamter in grauem Anzug macht einen Salto rückwärts,
+weil der Computer sagt:
 
-Und du denkst:
-> „Das weiß ich, das ist mein Humor-Account."
+> „Name und IBAN stimmen nicht exakt überein. Wiederholen Sie die Eingabe."
 
-Aber du klickst natürlich trotzdem auf *Ja*, weil du denkst: „Wird schon passen."
-Und das ist exakt der Moment, wo der Gesetzgeber dir sagt:
-> „Na siehste! Wenn's jetzt schiefgeht, bist du selbst schuld. Aber sicherer ist es trotzdem."
+Und irgendwo in Brüssel nickt jemand zufrieden:
+
+> „Siehst du, klappt doch!"
 
 **Wie es funktioniert:** Das VoP-System nutzt ein „Ampel-System" mit den Ergebnissen „Match", „Close Match", „No Match" oder „Other". Bei „No Match" liegt die Haftung beim Zahler, bei „Match" bei der Bank. ([Quelle: BaFin](https://www.bafin.de/DE/Verbraucher/Bank/Ueberweisungen_Lastschriften/Empfaengerueberpruefung_bei_Ueberweisungen/Empfaengerueberpruefung_bei_Ueberweisungen_node.html))
 
 ---
 
-## Der ewige Kreis der Bürokratie
+## Der Kreis schließt sich (leider)
 
-Das ist so schön deutsch:
-Erst schaffen wir eine Regel ab, um die Leute zu *entlasten*.
-Dann merken wir, dass sie ohne Regel noch mehr Mist bauen.
-Und dann führen wir die Regel wieder ein –
-nur diesmal mit einem **Verordnungstext auf 387 Seiten und vier Datenschutzbeauftragten pro API-Aufruf**.
+Wir haben also:
 
-Wir sind das einzige Land, das Digitalisierung so versteht:
-- Wir ersetzen den Brief durch eine E-Mail,
-- drucken die E-Mail aus,
-- unterschreiben sie,
-- scannen sie ein
-- und schicken sie per PDF wieder zurück.
+- Digitalisierung
+- Automatisierung
+- künstliche Intelligenz
 
-Und jetzt prüfen wir digital, ob „Müller" auch wirklich „Müller" ist.
-Spoiler: Wenn der Betrüger „Müller" heißt – dann ist das System glücklich.
+und am Ende wieder das Gleiche wie früher, nur mit mehr Klicks und weniger Kaffee.
 
----
+Früher hat Frau Meier hinter'm Schalter kurz den Kopf gehoben und gesagt:
 
-## Fortschritt in Reinform
+> „Herr Schwesig, das Konto gehört aber zu einer Frau."
 
-Ab Oktober 2025 also:
-- Die Banken prüfen wieder, ob du weißt, wem du dein Geld gibst.
-- Die EU ist stolz.
-- Und der Kunde denkt sich:
-  „Ach, das kenn ich doch irgendwoher …"
+Heute sagt der Computer:
 
-Ja, von damals, als alles langsamer, aber irgendwie logischer war.
-Da stand der Bankbeamte noch mit grauem Anzug hinter'm Schalter,
-tippte deine Überweisung ein
-und sagte mit ernster Miene:
-> „Das Konto gehört nicht zu Herrn Schmidt."
+> „Unsicheres Matching. Möchten Sie trotzdem fortfahren?"
 
-Heute sagt der Algorithmus:
-> „Das Konto gehört *vielleicht* zu Herrn Schmidt. Oder zu Frau Schmid. Oder zu jemandem mit einem ähnlichen Unicode-Zeichen."
-
-Und dann klickst du auf *OK*,
-weil du weißt:
-Wenn du's nicht tust, passiert gar nichts.
-Und wenn du's tust,
-passiert immerhin *etwas*.
+Und du klickst natürlich auf Ja,
+weil du einfach nur diese blöde Miete überweisen willst.
 
 **Zeitplan:** Banken in der Eurozone müssen VoP bis 9. Oktober 2025 implementieren. Banken außerhalb der Eurozone haben Zeit bis 9. Juli 2027. ([Quelle: PwC Legal](https://legal.pwc.de/en/news/articles/verification-of-payee-requirements-vop-under-the-eus-instant-payments-regulation-ipr))
 
@@ -123,20 +108,19 @@ passiert immerhin *etwas*.
 
 ## Fazit
 
-Wir leben im Zeitalter der Digitalisierung,
-wo alles schneller, einfacher und sicherer werden soll —
-und das Ergebnis ist:
-**Mehr Klicks, mehr Pop-ups, mehr Haftung für dich.**
+Wir wollten schneller werden.
+Wir wollten moderner werden.
+Und jetzt sind wir digitalisiert – aber auf Umwegen.
 
-Aber hey — immerhin nennt sich das Ganze jetzt *Innovation*.
-Und Innovation, das ist in Deutschland,
-wenn man etwas wieder einführt,
-das man zehn Jahre zuvor aus Kostengründen abgeschafft hat.
+Oder, wie man es wohl nennen muss:
+Ein Salto mortale rückwärts in die Zukunft.
+Mit Zertifikat. Und Cookie-Hinweis.
 
-Willkommen im Fortschritt.
-Bitte bestätigen Sie mit *Ja*, dass Sie verstanden haben,
-dass Sie jetzt wieder sicher sind.
-Oder wenigstens sicher glauben, es zu sein.
+**PS:** Falls jetzt jemand fragt, ob ich das ernst meine – nein.
+Aber wenn ich mir ansehe, wie die EU Fortschritt definiert, dann bin ich mir auch nicht mehr sicher, ob die's tun.
+In diesem Sinne:
+Grünes Licht, Freunde. Oder Gelb.
+Je nach Systemstatus.
 
 ---
 
