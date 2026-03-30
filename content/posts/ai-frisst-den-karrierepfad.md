@@ -247,3 +247,8 @@ Vielleicht ist AI nicht das Ende der Entwickler.
 
 Aber sie könnte das Ende dessen sein,
 was einen Entwickler überhaupt ausmacht.
+
+---
+
+**PS:** Die Ironie, die ich hier beschreibe, trifft Entwickler gerade mit voller Wucht — und das fühlt sich neu an, weil es bisher immer andere traf. Aber ehrlich gesagt: Das Verschwinden des Lernwegs durch Automatisierung ist kein neues Phänomen. Es hat andere Berufsfelder schon länger erwischt. Sachbearbeiter, Grafikdesigner, Übersetzer, Journalisten. Der Weg vom Anfänger zum Experten wurde dort bereits still und leise abgebaut. Dass wir Entwickler das jetzt erst bemerken, liegt schlicht daran, dass wir jetzt dran sind.
+
