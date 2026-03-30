@@ -75,8 +75,8 @@ Vom Junior Doing zum Senior Thinking.
 Wenn ein Senior mit AI die Arbeit von fünf Juniors machen kann,
 warum sollte ein Unternehmen noch Juniors einstellen?
 
-Es gibt keine moralische Antwort darauf.
-Nur eine ökonomische.
+Es gibt darauf keine moralische Antwort.
+Nur eine, die in Excel aufgeht.
 
 Und die ist brutal einfach:
 
@@ -250,5 +250,5 @@ was einen Entwickler überhaupt ausmacht.
 
 ---
 
-**PS:** Die Ironie, die ich hier beschreibe, trifft Entwickler gerade mit voller Wucht — und das fühlt sich neu an, weil es bisher immer andere traf. Aber ehrlich gesagt: Das Verschwinden des Lernwegs durch Automatisierung ist kein neues Phänomen. Es hat andere Berufsfelder schon länger erwischt. Sachbearbeiter, Grafikdesigner, Übersetzer, Journalisten. Der Weg vom Anfänger zum Experten wurde dort bereits still und leise abgebaut. Dass wir Entwickler das jetzt erst bemerken, liegt schlicht daran, dass wir jetzt dran sind.
+**PS:** Die Ironie, die ich hier beschreibe, trifft Entwickler gerade mit voller Wucht — und das fühlt sich neu an, weil es bisher immer andere traf. Und das ist kein neues Phänomen. Sachbearbeiter, Grafikdesigner, Übersetzer, Journalisten. Der Weg vom Anfänger zum Experten wurde dort bereits still und leise abgebaut. Dass wir Entwickler das jetzt erst bemerken, liegt schlicht daran, dass wir jetzt dran sind.
 
