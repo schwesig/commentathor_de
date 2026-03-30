@@ -6,6 +6,8 @@ tags = ['AI', 'Entwickler', 'Karriere', 'Kommentar']
 categories = ['Gesellschaft', 'Technik']
 +++
 
+*[Read this in English](/posts/ai-eats-career-path)*
+
 Es gibt eine bequeme Lüge in der Tech-Welt.
 
 Dass AI uns produktiver macht.
