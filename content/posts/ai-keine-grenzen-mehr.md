@@ -8,6 +8,8 @@ categories = ['Gesellschaft']
 
 ### Sie zeigt dir nur, wie unendlich viel Arbeit möglich wäre.
 
+*[Read this in English](/posts/ai-doesnt-remove-work)*
+
 Es gibt gerade diese beruhigende Geschichte: AI macht uns produktiver, spart Zeit und befreit uns von Arbeit. Das ist die offizielle Version. Die inoffizielle ist deutlich weniger angenehm: Viele Menschen arbeiten mehr als vorher. Nicht weil sie müssen. Weil sie es können.
 
 Früher war Arbeit durch Dinge begrenzt, die niemand wirklich mochte, die aber erstaunlich hilfreich waren: Zeit, Reibung, Komplexität. Diese Dinge waren keine Fehler im System, sondern eine Art eingebauter Schutzmechanismus. Sie haben dich gezwungen, irgendwann aufzuhören. Irgendwann war der Punkt erreicht, an dem der Aufwand einfach nicht mehr gerechtfertigt war. „Gut genug" war keine Philosophie, sondern eine Notwendigkeit.
