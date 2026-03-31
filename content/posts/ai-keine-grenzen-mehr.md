@@ -14,11 +14,11 @@ Früher war Arbeit durch Dinge begrenzt, die niemand wirklich mochte, die aber e
 
 Heute ist dieser Punkt verschwunden. Oder zumindest weit nach hinten verschoben.
 
-Du kannst schneller denken, schneller bauen, schneller verwerfen. Du kannst Ideen verfolgen, ohne dich festlegen zu müssen. Du kannst parallel in mehreren Versionen deiner eigenen Gedanken existieren. Und damit passiert etwas, das zunächst wie Freiheit wirkt, aber in Wahrheit etwas anderes ist: Die äußeren Grenzen verschwinden, und plötzlich bist du selbst die einzige Grenze.
+Du kannst schneller denken, schneller bauen, schneller verwerfen. Du kannst Ideen verfolgen, ohne dich festlegen zu müssen. Du kannst parallel in mehreren Versionen deiner eigenen Gedanken existieren. Und damit passiert etwas, das zunächst wie Freiheit wirkt, aber in Wahrheit etwas anderes ist: **Die äußeren Grenzen verschwinden, und plötzlich bist du selbst die einzige Grenze.**
 
 Das Problem ist nur: Der Mensch ist nicht dafür gemacht.
 
-Er ist erstaunlich gut darin, innerhalb von Grenzen zu optimieren. Aber wenn diese Grenzen wegfallen, entsteht nicht automatisch Klarheit oder Ruhe. Es entsteht Eskalation. Nicht, weil jemand dich zwingt, sondern weil jede zusätzliche Möglichkeit wie eine Einladung wirkt. Ein weiteres Feature, eine bessere Version, ein zusätzlicher Gedanke. Nicht notwendig, aber möglich. Und genau hier beginnt die Verschiebung: Möglichkeit wird mit Notwendigkeit verwechselt.
+Er ist erstaunlich gut darin, innerhalb von Grenzen zu optimieren. Aber wenn diese Grenzen wegfallen, entsteht nicht automatisch Klarheit oder Ruhe. Es entsteht Eskalation. Nicht, weil jemand dich zwingt, sondern weil jede zusätzliche Möglichkeit wie eine Einladung wirkt. Ein weiteres Feature, eine bessere Version, ein zusätzlicher Gedanke. Nicht notwendig, aber möglich. Und genau hier beginnt die Verschiebung: **Möglichkeit wird mit Notwendigkeit verwechselt.**
 
 AI verstärkt dieses Muster perfekt. Sie sagt dir nicht, was du tun sollst. Sie zeigt dir nur, was du tun könntest. Und das ist der entscheidende Unterschied. „Müssen" hat ein Ende. „Können" hat keins.
 
@@ -26,13 +26,13 @@ Damit verändert sich auch die Natur von Arbeit selbst. Früher war der Engpass 
 
 Du kannst mehr erzeugen, als du sinnvoll verstehen kannst.
 
-## Wenn Produktion kostenlos wird, wird Entscheidung zum Engpass.
+### Wenn Produktion kostenlos wird, wird Entscheidung zum Engpass.
 
 Und hier greift ein Prinzip, das älter ist als jede AI-Debatte, aber gerade eine neue Relevanz bekommt: das Brandolinis Gesetz. Die einfache Beobachtung, dass es ein Vielfaches an Energie kostet, Unsinn zu widerlegen, als ihn zu produzieren. Früher war zumindest die Produktion von Unsinn aufwendig genug, um das System halbwegs stabil zu halten. Heute reicht ein Prompt. Die Produktionsseite ist praktisch kostenlos geworden. Die Bewertungsseite nicht.
 
 Das Ergebnis ist ein System, das schneller produziert, als der Mensch sinnvoll filtern kann.
 
-Diese Dynamik bleibt nicht auf Entwickler beschränkt. Sie zieht sich durch Organisationen. Plötzlich können Menschen, die vorher keine direkte Nähe zur Umsetzung hatten, selbst Dinge erzeugen: Code, Konzepte, Entwürfe. Nicht unbedingt korrekt, aber schnell genug, um ernst genommen zu werden. Und jedes dieser Artefakte erzeugt Arbeit auf der anderen Seite. Jemand muss es prüfen, einordnen, korrigieren, oft auch einfach nur erklären, warum es so nicht funktioniert.
+Diese Dynamik bleibt nicht auf Entwickler beschränkt. Sie zieht sich durch Organisationen. Plötzlich können Menschen, die vorher keine direkte Nähe zur Umsetzung hatten, selbst Dinge erzeugen: Code, Konzepte, Entwürfe. **Nicht unbedingt korrekt, aber schnell genug, um ernst genommen zu werden.** Und jedes dieser Artefakte erzeugt Arbeit auf der anderen Seite. Jemand muss es prüfen, einordnen, korrigieren, oft auch einfach nur erklären, warum es so nicht funktioniert.
 
 Arbeit entsteht damit nicht mehr aus Knappheit, sondern aus Überfluss.
 
@@ -44,13 +44,13 @@ Und hier zeigt sich das eigentliche Paradox: AI spart dir Zeit. Und du benutzt d
 
 Das ist kein neues Verhalten. Es ist ein sehr menschliches.
 
-Die industrielle Revolution hat körperliche Arbeit reduziert, und wir haben neue Arbeit geschaffen. Die digitale Revolution hat Informationsarbeit beschleunigt, und wir haben mehr davon produziert. Und jetzt macht AI kognitive Arbeit effizienter – und wir reagieren exakt gleich. Wir optimieren nicht auf weniger Arbeit. Wir optimieren auf mehr Output.
+Die industrielle Revolution hat körperliche Arbeit reduziert, und wir haben neue Arbeit geschaffen. Die digitale Revolution hat Informationsarbeit beschleunigt, und wir haben mehr davon produziert. Und jetzt macht AI kognitive Arbeit effizienter – und wir reagieren exakt gleich. **Wir optimieren nicht auf weniger Arbeit. Wir optimieren auf mehr Output.**
 
 Das Problem ist deshalb nicht technologisch. Es ist kulturell.
 
 Wir haben keine klare Vorstellung davon, was „genug" bedeutet. Keine Metrik für „fertig". Keine Belohnung dafür, etwas bewusst nicht zu tun. Aber wir haben sehr ausgefeilte Systeme für „mehr", „schneller" und „besser". Und solange das so bleibt, wird jede neue Technologie diese Dynamik verstärken, nicht auflösen.
 
-Deshalb verschiebt sich die vielleicht wichtigste Fähigkeit der Zukunft an einen unerwarteten Ort. Es geht weniger um Tools, weniger um Modelle, weniger um die nächste Generation von Systemen. Es geht um die Fähigkeit, sich selbst zu begrenzen. Zu sagen: Das reicht. Das ist gut genug. Das mache ich nicht auch noch.
+Deshalb verschiebt sich die vielleicht wichtigste Fähigkeit der Zukunft an einen unerwarteten Ort. Es geht weniger um Tools, weniger um Modelle, weniger um die nächste Generation von Systemen. **Es geht um die Fähigkeit, sich selbst zu begrenzen.** Zu sagen: Das reicht. Das ist gut genug. Das mache ich nicht auch noch.
 
 Denn AI wird dich nicht stoppen. Sie wird dir immer eine bessere Version zeigen, eine schnellere Variante, eine zusätzliche Möglichkeit. Und jedes Mal liegt die Entscheidung bei dir, ob du dieser Spur folgst oder nicht.
 
