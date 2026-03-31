@@ -26,6 +26,8 @@ Damit verändert sich auch die Natur von Arbeit selbst. Früher war der Engpass 
 
 Du kannst mehr erzeugen, als du sinnvoll verstehen kannst.
 
+## Wenn Produktion kostenlos wird, wird Entscheidung zum Engpass.
+
 Und hier greift ein Prinzip, das älter ist als jede AI-Debatte, aber gerade eine neue Relevanz bekommt: das Brandolinis Gesetz. Die einfache Beobachtung, dass es ein Vielfaches an Energie kostet, Unsinn zu widerlegen, als ihn zu produzieren. Früher war zumindest die Produktion von Unsinn aufwendig genug, um das System halbwegs stabil zu halten. Heute reicht ein Prompt. Die Produktionsseite ist praktisch kostenlos geworden. Die Bewertungsseite nicht.
 
 Das Ergebnis ist ein System, das schneller produziert, als der Mensch sinnvoll filtern kann.
