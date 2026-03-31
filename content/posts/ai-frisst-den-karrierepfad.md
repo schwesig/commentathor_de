@@ -254,3 +254,9 @@ was einen Entwickler überhaupt ausmacht.
 
 **PS:** Die Ironie, die ich hier beschreibe, trifft Entwickler gerade mit voller Wucht — und das fühlt sich neu an, weil es bisher immer andere traf. Und das ist kein neues Phänomen. Sachbearbeiter, Grafikdesigner, Übersetzer, Journalisten. Der Weg vom Anfänger zum Experten wurde dort bereits still und leise abgebaut. Dass wir Entwickler das jetzt erst bemerken, liegt schlicht daran, dass wir jetzt dran sind.
 
+---
+
+**Weiterführend:**
+- [Workers, Weavers, and Warnings: What 19th-Century Protest Tells Us About AI](https://librarynews.lmu.edu/2025/05/workers-weavers-and-warnings-what-19th-century-protest-tells-us-about-ai/)
+- [Luddite, Industrial Revolution, Anti-Technology](https://www.nationalgeographic.com/history/article/luddite-industrial-revolution-anti-technology)
+

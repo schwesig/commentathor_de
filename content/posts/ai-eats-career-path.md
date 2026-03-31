@@ -252,3 +252,9 @@ But it might be the end of what makes a developer.
 ---
 
 **PS:** The irony described here is hitting developers hard right now, and it feels new because until now it always hit others first. But this is not new. Clerks, designers, translators, journalists. In all of those fields, the path from beginner to expert has already been quietly eroded. The only reason developers are noticing now is simple: it's our turn.
+
+---
+
+**Further reading:**
+- [Workers, Weavers, and Warnings: What 19th-Century Protest Tells Us About AI](https://librarynews.lmu.edu/2025/05/workers-weavers-and-warnings-what-19th-century-protest-tells-us-about-ai/)
+- [Luddite, Industrial Revolution, Anti-Technology](https://www.nationalgeographic.com/history/article/luddite-industrial-revolution-anti-technology)
