@@ -12,7 +12,7 @@ Es gibt eine bequeme Lüge in der Tech-Welt.
 
 Dass AI uns produktiver macht.
 Dass sie uns Arbeit abnimmt.
-Dass sie uns freispielt für die "wichtigen Dinge".
+Dass sie uns freispielt für die „wichtigen Dinge".
 
 Das stimmt.
 
@@ -33,9 +33,9 @@ Automatisierung war etwas, das **anderen passiert ist**.
 
 Und die Reaktionen waren immer dieselben:
 
-- "Das kann keine echte Arbeit ersetzen"
-- "Die Qualität wird leiden"
-- "Das versteht die Realität nicht"
+- „Das kann keine echte Arbeit ersetzen"
+- „Die Qualität wird leiden"
+- „Das versteht die Realität nicht"
 
 Heute sagen Entwickler exakt das Gleiche.
 
@@ -97,7 +97,7 @@ Sie entstehen durch:
 - Fehler
 - schlechte Entscheidungen
 - Kontext
-- Jahre von "nicht wissen, was man tut"
+- Jahre von „nicht wissen, was man tut"
 
 Das ist der Teil, den AI gerade entfernt.
 
@@ -133,7 +133,7 @@ Es ist **instabil**.
 Wer bildet eigentlich noch aus?
 
 Früher war die Antwort klar:
-Unternehmen
+Unternehmen.
 
 Heute ist die Antwort unklar.
 
@@ -149,13 +149,13 @@ Who pays for the missing education?
 
 Es gibt nur drei Möglichkeiten:
 
-1. Der Einzelne zahlt
+1. Der Einzelne zahlt:
    mehr Selbstoptimierung, mehr Druck, mehr Ungleichheit
 
-2. Der Staat zahlt
+2. Der Staat zahlt:
    Unternehmen sparen, Gesellschaft trägt die Kosten
 
-3. Niemand zahlt
+3. Niemand zahlt:
    und wir merken es erst, wenn uns die Experten fehlen
 
 Das ist kein technisches Problem.
@@ -169,7 +169,7 @@ Jahrelang haben Entwickler sich über die Fachseite beschwert:
 
 - Anforderungen sind unklar
 - Spezifikationen sind schlecht
-- "Der User weiß nicht, was er will"
+- „Der User weiß nicht, was er will"
 
 Jetzt sitzen dieselben Entwickler vor einem LLM
 und schreiben Prompts.
@@ -178,7 +178,7 @@ Und plötzlich:
 
 - unklare Anforderungen
 - widersprüchliche Inputs
-- Ergebnisse, die "technisch korrekt, aber falsch" sind
+- Ergebnisse, die „technisch korrekt, aber falsch" sind
 
 Die Rollen haben sich gedreht.
 
@@ -233,7 +233,7 @@ Aber diesmal ersetzt sie etwas anderes:
 
 Nicht:
 
-"Ist AI gut genug?"
+„Ist AI gut genug?"
 
 Sondern:
 
