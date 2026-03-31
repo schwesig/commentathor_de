@@ -133,7 +133,7 @@ It is **unstable**.
 Who is still responsible for training?
 
 The answer used to be clear:
-companies
+companies.
 
 Today, it isn't.
 
@@ -149,13 +149,13 @@ Who pays for the missing education?
 
 There are only three options:
 
-1. The individual pays
+1. The individual pays:
    more self-optimization, more pressure, more inequality
 
-2. The state pays
+2. The state pays:
    companies save money, society carries the cost
 
-3. No one pays
+3. No one pays:
    and we notice only when the experts are gone
 
 This is not a technical problem.
