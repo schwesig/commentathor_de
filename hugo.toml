@@ -20,9 +20,10 @@ enableRobotsTXT = true
       unsafe = true
 
 [params]
-  colortheme = "white"
+  colortheme = "dark"
   rss = true
   description = "Comment-a-Thor - a blog by @schwesig"
+  css = ["css/crt.css", "css/amber-theme.css"]
   mainSection = "posts"
   showAllPostsOnHomePage = false
   postsOnHomePage = 10
