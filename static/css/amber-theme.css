@@ -1,0 +1,193 @@
+/* Amber CRT color overrides for Cactus theme */
+
+body.crt-amber {
+  font-family: 'JetBrains Mono', 'IBM Plex Mono', 'Courier New', monospace;
+}
+
+/* Links */
+body.crt-amber a {
+  color: #ffcc44;
+  text-shadow: 0 0 4px rgba(255,204,68,.4);
+}
+body.crt-amber a:hover {
+  color: #ffe066;
+  text-shadow: 0 0 8px rgba(255,224,102,.5);
+}
+
+/* Headings */
+body.crt-amber h1,
+body.crt-amber h2,
+body.crt-amber h3,
+body.crt-amber h4,
+body.crt-amber h5,
+body.crt-amber h6 {
+  color: #ffc233;
+  text-shadow:
+    0 0 4px rgba(255,194,51,.5),
+    0 0 10px rgba(255,194,51,.25);
+}
+
+/* Navigation */
+body.crt-amber #header #title h1 {
+  color: #ffb000;
+}
+body.crt-amber #header #nav a {
+  color: #ffb000;
+}
+body.crt-amber #header #nav a:hover {
+  color: #ffe066;
+}
+
+/* Logo */
+body.crt-amber #header #logo {
+  border: 2px solid #ffb000;
+  box-shadow: 0 0 10px rgba(255,176,0,.3);
+}
+
+/* Content area background */
+body.crt-amber .content {
+  background: transparent;
+}
+
+/* Post list */
+body.crt-amber .post-list .post-item .meta {
+  color: #cc8d00;
+}
+
+/* Post metadata */
+body.crt-amber .post-info {
+  color: #cc8d00;
+}
+
+/* Tags */
+body.crt-amber .tags a {
+  color: #cc8d00;
+  border-color: #3d2800;
+}
+body.crt-amber .tags a:hover {
+  color: #ffb000;
+  border-color: #ffb000;
+}
+
+/* Footer */
+body.crt-amber #footer {
+  color: #996600;
+  border-top-color: #3d2800;
+}
+body.crt-amber #footer a {
+  color: #cc8d00;
+}
+body.crt-amber #footer a:hover {
+  color: #ffb000;
+}
+
+/* Code blocks */
+body.crt-amber pre {
+  background: #1a1100 !important;
+  border: 1px solid #3d2800;
+  box-shadow: inset 0 0 20px rgba(0,0,0,.5);
+}
+body.crt-amber code {
+  color: #ffb000;
+  background: #1a1100;
+}
+body.crt-amber pre code {
+  text-shadow: 0 0 2px rgba(255,176,0,.4);
+}
+
+/* Blockquotes */
+body.crt-amber blockquote {
+  border-left-color: #ffb000;
+  color: #cc8d00;
+}
+
+/* Horizontal rules */
+body.crt-amber hr {
+  border-color: #3d2800;
+}
+
+/* Strong / Bold */
+body.crt-amber strong {
+  color: #ffc233;
+}
+
+/* Emphasis */
+body.crt-amber em {
+  color: #ffcc44;
+}
+
+/* Lists */
+body.crt-amber ul,
+body.crt-amber ol {
+  color: #ffb000;
+}
+
+/* Table */
+body.crt-amber table th {
+  color: #ffc233;
+  border-bottom: 2px solid #3d2800;
+}
+body.crt-amber table td {
+  border-bottom: 1px solid #3d2800;
+}
+
+/* Disclaimer override */
+body.crt-amber .disclaimer {
+  background-color: #1a1100 !important;
+  border-color: #ffb000 !important;
+  box-shadow: 0 0 10px rgba(255,176,0,.15) !important;
+}
+body.crt-amber .disclaimer p,
+body.crt-amber .disclaimer strong,
+body.crt-amber .disclaimer span {
+  color: #ffb000 !important;
+}
+
+/* Scrollbar */
+body.crt-amber::-webkit-scrollbar {
+  width: 8px;
+}
+body.crt-amber::-webkit-scrollbar-track {
+  background: #140d00;
+}
+body.crt-amber::-webkit-scrollbar-thumb {
+  background: #3d2800;
+  border-radius: 4px;
+}
+body.crt-amber::-webkit-scrollbar-thumb:hover {
+  background: #ffb000;
+}
+
+/* Font Awesome icons */
+body.crt-amber .fas,
+body.crt-amber .fab,
+body.crt-amber .far {
+  color: #ffb000;
+}
+
+/* Pagination */
+body.crt-amber .pagination a {
+  color: #ffb000;
+  border-color: #3d2800;
+}
+body.crt-amber .pagination a:hover {
+  color: #ffe066;
+  border-color: #ffb000;
+}
+body.crt-amber .pagination .active {
+  color: #ffc233;
+  border-color: #ffb000;
+}
+
+/* Remove any white backgrounds from theme */
+body.crt-amber .post-content,
+body.crt-amber .page-content,
+body.crt-amber .index {
+  background: transparent;
+}
+
+/* Ensure images don't break the amber mood */
+body.crt-amber img {
+  filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(5deg);
+  border: 1px solid #3d2800;
+}
