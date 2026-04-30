@@ -1,7 +1,7 @@
 +++
 date = '2026-04-20T00:00:00+02:00'
 draft = false
-title = 'Nicht AI nimmt dir den Job'
+title = 'Nicht AI nimmt dir den Job / Not AI Takes Your Job'
 tags = ['AI', 'Arbeit', 'Management']
 categories = ['Personal']
 +++
