@@ -45,7 +45,7 @@
   {{ with .Site.Config.Services.GoogleAnalytics.ID }}
     {{ template "_internal/google_analytics.html" $ }}
   {{ end }}
-  {{- if not .Site.IsServer }}
+  {{- if not hugo.IsServer }}
   <script defer src="https://cloud.umami.is/script.js" data-website-id="7aca02fe-88f5-4d3f-a39e-f13ed8a8bfca"></script>
   {{- end }}
 </head>
