@@ -2,6 +2,14 @@
 
 body.crt-amber {
   font-family: 'JetBrains Mono', 'IBM Plex Mono', 'Courier New', monospace;
+  color: #ffb000;
+}
+
+body.crt-amber p,
+body.crt-amber li,
+body.crt-amber span,
+body.crt-amber div {
+  color: #ffb000;
 }
 
 /* Links */
