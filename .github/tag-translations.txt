@@ -1,0 +1,14 @@
+Arbeit=Work
+Banken=Banking
+Beziehung=Relationship
+Demokratie=Democracy
+Digitalisierung=Digitalization
+Entwickler=Developer
+Karriere=Career
+Kommentar=Commentary
+Politik=Politics
+Produktivität=Productivity
+Verantwortung=Responsibility
+Wahrheit=Truth
+Wirtschaft=Economy
+Zitate=Quotes
