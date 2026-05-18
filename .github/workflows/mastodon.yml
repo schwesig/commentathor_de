@@ -55,8 +55,24 @@ jobs:
           fi
           echo "title=$TITLE" >> $GITHUB_OUTPUT
 
-          # Extract tags
-          TAGS=$(grep '^tags' "$NEW_FILE" | head -1 | sed "s/tags = \[//;s/\]//;s/'//g;s/\"//g;s/, / /g" | tr ' ' '\n' | sed 's/^/#/' | tr '\n' ' ')
+          # Extract tags and translate german to english
+          RAW_TAGS=$(grep '^tags' "$NEW_FILE" | head -1 | sed "s/tags = \[//;s/\]//;s/'//g;s/\"//g;s/, /,/g")
+          TAGS=$(echo "$RAW_TAGS" | tr ',' '\n' | sed '
+            s/Arbeit/Work/g
+            s/Banken/Banking/g
+            s/Beziehung/Relationship/g
+            s/Demokratie/Democracy/g
+            s/Digitalisierung/Digitalization/g
+            s/Entwickler/Developer/g
+            s/Karriere/Career/g
+            s/Kommentar/Commentary/g
+            s/Politik/Politics/g
+            s/Produktivität/Productivity/g
+            s/Verantwortung/Responsibility/g
+            s/Wahrheit/Truth/g
+            s/Wirtschaft/Economy/g
+            s/Zitate/Quotes/g
+          ' | sed 's/^ *//;s/ *$//' | sed 's/^/#/' | tr '\n' ' ')
           echo "tags=$TAGS" >> $GITHUB_OUTPUT
 
           # Build URL from filename
