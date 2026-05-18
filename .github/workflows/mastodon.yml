@@ -80,11 +80,7 @@ jobs:
           POST_TAGS: ${{ steps.post.outputs.tags }}
           MASTODON_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
         run: |
-          STATUS="${POST_TITLE}
-
-${POST_URL}
-
-${POST_TAGS}"
+          STATUS=$(printf '%s\n\n%s\n\n%s' "${POST_TITLE}" "${POST_URL}" "${POST_TAGS}")
 
           curl -s -X POST \
             -H "Authorization: Bearer ${MASTODON_TOKEN}" \
