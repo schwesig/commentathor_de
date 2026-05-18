@@ -6,7 +6,15 @@ tags = ['Zitate']
 categories = ['Quotes']
 +++
 
+<a id="deutsch"></a>
+*[Read the English version below ↓](#english)*
+
 „DEUTSCHER TEXT HIER"
+
+---
+
+<a id="english"></a>
+*[Zur deutschen Version ↑](#deutsch)*
 
 "ENGLISH TEXT HERE"
 

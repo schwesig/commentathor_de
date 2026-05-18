@@ -6,6 +6,9 @@ tags = ['AI', 'Arbeit', 'Management']
 categories = ['Personal']
 +++
 
+<a id="deutsch"></a>
+*[Read the English version below ↓](#english)*
+
 Nicht AI nimmt dir den Job.
 
 Ein Kollege, der sie benutzt.
@@ -29,6 +32,9 @@ Mit Einsparungen.
 Und irgendjemand ist immer die Einsparung.
 
 ---
+
+<a id="english"></a>
+*[Zur deutschen Version ↑](#deutsch)*
 
 Not AI takes your job.
 
