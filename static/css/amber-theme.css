@@ -9,7 +9,7 @@ body.crt-amber p,
 body.crt-amber li,
 body.crt-amber span,
 body.crt-amber div {
-  color: #ffb000;
+  color: #ffb000 !important;
 }
 
 /* Links */
