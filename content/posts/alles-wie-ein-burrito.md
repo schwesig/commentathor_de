@@ -6,6 +6,8 @@ tags = ['Essen', 'Humor', 'Kulinarik']
 categories = ['Personal']
 +++
 
+![Jarritos Mexican Cola / Jarritos Mexican Cola](/images/alles-wie-ein-burrito.jpg)
+
 <a id="deutsch"></a>
 *[Read the English version below ↓](#english)*
 
